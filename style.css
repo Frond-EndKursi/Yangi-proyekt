@@ -1,0 +1,18 @@
+body{
+    min-height: 500vh;
+    background-color: #fac3c3;
+}
+
+body .sticky{
+    position: sticky;
+    top: 100px;
+    background-color: #ff0000;
+}
+
+.fixsed{
+    position: fixed;
+    background-color: #0004f8;
+    /* top bottom left right */
+    top: 100px;
+    right: 300px;
+}
